@@ -1,6 +1,6 @@
 Name:		python-resolvelib
 Version:	1.1.0
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/r/resolvelib/resolvelib-%{version}.tar.gz
 Summary:	Resolve abstract dependencies into concrete ones
 URL:		https://pypi.org/project/resolvelib/
