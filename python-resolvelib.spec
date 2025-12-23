@@ -6,6 +6,8 @@ Summary:	Resolve abstract dependencies into concrete ones
 URL:		https://pypi.org/project/resolvelib/
 License:	ISC License
 Group:		Development/Python
+BuildRequires:  python%{pyver}dist(setuptools)
+BuildRequires:  python%{pyver}dist(pip)
 BuildSystem:	python
 BuildArch:	noarch
 
